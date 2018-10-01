@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz_1J</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="textview">TextView</string>
+    <string name="biwties">Biwties</string>
+    <string name="prajukpong_prajusup">Prajukpong Prajusup</string>
+    <string name="_03_01_1997">03/01/1997</string>
+    <string name="_0961741470">0961741470</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+
+</resources>
